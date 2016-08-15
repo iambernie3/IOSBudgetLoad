@@ -1,0 +1,6 @@
+framework module Pods_BudgetLoadTests {
+  umbrella header "Pods-BudgetLoadTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
